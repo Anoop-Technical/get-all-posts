@@ -41,7 +41,7 @@
   color: #888;
 }
 
-.card-container {
+.card-container, .user-card {
   max-width: 100%;
   width: 500px;
   padding: 50px 40px;
